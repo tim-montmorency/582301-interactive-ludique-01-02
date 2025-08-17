@@ -8,4 +8,3 @@
 
 ## Activités en classe
 
-[Consignes
