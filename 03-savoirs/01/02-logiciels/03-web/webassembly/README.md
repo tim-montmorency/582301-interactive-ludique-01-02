@@ -1,0 +1,5 @@
+# webassembly
+
+emscriptem
+
+godot webexport
