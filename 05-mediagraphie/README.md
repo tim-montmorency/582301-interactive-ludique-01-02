@@ -19,68 +19,22 @@
 
 ## Programmation jeu vidéo
 
-- Adams, Ernest W.; Dormans, Joris — *Game Mechanics: Advanced Game Design* (2012).
-- Adams, Ernest — *Fundamentals of Game Design* (2006).
-- Alexander, Christopher; Ishikawa, Sara; Silverstein, Murray — *A Pattern Language* (1977).
-- Anthropy, Anna — *A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design* (2013).
-- Bartle, Richard — *Designing Virtual Worlds* (2003).
-- Bissell, Tom — *Extra Lives: Why Video Games Matter* (2010).
-- Bogost, Ian — *Persuasive Games: The Expressive Power of Videogames* (2007).
-- Brathwaite, Brenda — *Challenges for Game Designers* (2008).
-- Brown, Brené — *Daring Greatly*.
-- Cabane, Olivia Fox — *The Charisma Myth*.
-- Cain, Susan — *Quiet: The Power of Introverts in a World that Can’t Stop Talking*.
-- Caillois, Roger — *Man, Play and Games* (1958).
-- Costikyan, Greg — *Uncertainty in Games* (2013).
-- Crawford, Chris — *Chris Crawford on Game Design* (2003).
-- Csikszentmihalyi, Mihaly — *Flow: The Psychology of Optimal Experience* (1990).
-- DeKoven, Bernie — *The Well-Played Game: A Player's Philosophy* (1978).
-- Despain, Wendy — *100 Principles of Game Design* (2012).
-- Dille, Flint — *The Ultimate Guide to Video Game Writing and Design* (2006).
-- Engelstein, Geoffrey — *Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms* (2019).
-- Elias, George Skaff — *Characteristics of Games* (2012).
-- Flanagan, Mary — *Critical Play: Radical Game Design* (2009).
-- Fullerton, Tracy — *Game Design Workshop: A Playcentric Approach to Creating Innovative Games* (2008).
-- Gary, Justin — *Think Like A Game Designer: The Step-by-Step Guide to Unlocking Your Creative Potential*.
-- Gee, James Paul — *What Video Games Have to Teach Us About Learning and Literacy* (2003).
-- Gonzalez Vivo, Patricio; Lowe, Jen — *The Book of Shaders*.
-- Heussner, Tobias; Finley, Toiya Kristen; Helper, Jennifer Brandes; Lemay, Ann — *The Game Narrative Toolbox* (2015).
-- Heath, Chip; Heath, Dan — *The Power of Moments* (2017).
-- Hodent, Celia — *The Gamer's Brain: How Neuroscience and UX Can Impact Video Game Design*.
-- Huizinga, Johan — *Homo Ludens: A Study of the Play Element in Culture* (1938).
-- Isbister, Katherine — *How Games Move Us: Emotion by Design* (2016).
-- Juul, Jesper — *Half-Real: Video Games Between Real Rules and Fictional Worlds* (2005).
-- Kalmpourtzis, George — *Educational Game Design Fundamentals: A Journey to Creating Intrinsically Motivating Learning Experiences*.
-- Koster, Raph — *A Theory of Fun for Game Design* (2004).
-- Kremers, Rudolf — *Level Design: Concept, Theory, and Practice* (2009).
-- Kushner, David — *Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture* (2003).
-- Lencioni, Patrick — *The Five Dysfunctions of a Team* (2002).
-- McCloud, Scott — *Understanding Comics: The Invisible Art* (1993).
-- McGonigal, Jane — *Reality is Broken: Why Games Make Us Better and How They Can Change the World* (2010).
-- McKee, Robert — *Story: Substance, Structure, Style, and the Principles of Screenwriting* (1997).
-- Nystrom, Robert — *Game Programming Patterns* (2011).
-- Norman, Donald A. — *The Design of Everyday Things* (1988); *Emotional Design: Why We Love (or Hate) Everyday Things* (2003).
-- Odell, Jenny — *How to Do Nothing: Resisting the Attention Economy* (2019).
-- Parker, Priya — *The Art of Gathering: How We Meet and Why It Matters* (2018).
-- Patton, Bruce; Heen, Sheila; Stone, Douglas — *Difficult Conversations: How to Discuss What Matters Most* (Stone listed first) (1999).
-- Rogers, Scott — *Level Up!: The Guide to Great Video Game Design* (2010).
-- Salen, Katie — *Rules of Play: Game Design Fundamentals* (2003); *The Game Design Reader: A Rules of Play Anthology* (2005).
-- Schell, Jesse — *The Art of Game Design: A Book of Lenses* (2008).
-- Schreier, Jason — *Blood, Sweat, and Pixels* (2017).
-- Sellers, Michael — *Advanced Game Design: A Systems Approach*.
-- Selinker, Mike — *The Kobold Guide to Board Game Design* (2011).
-- Sheldon, Lee — *Character Development and Storytelling for Games* (2004).
-- Shiffman, Daniel — *The Nature of Code* (2012).
-- Skolnick, Evan — *Video Game Storytelling: What Every Developer Needs to Know about Narrative Techniques* (2014).
-- Suits, Bernard — *The Grasshopper: Games, Life and Utopia* (1978).
-- Suits, Bernard — *The Well-Played Game: A Player's Philosophy* (1978).
-- Swink, Steve — *Game Feel* (2008).
-- Sylvester, Tynan — *Designing Games: A Guide to Engineering Experiences* (2013).
-- Totten, Christopher W. — *An Architectural Approach to Level Design* (2014).
-- Varol, Ozan — *Think Like a Rocket Scientist*.
-- Voss, Chris — *Never Split the Difference* (2016).
-- Weiss, Alan — *Million Dollar Consulting*.
-- Yu, Derek — *Spelunky* (2015).
+* Bartle, Richard — *Designing Virtual Worlds* (2003).
+* Bogost, Ian — *Persuasive Games* (2007).
+* Caillois, Roger — *Man, Play and Games* (1958).
+* Costikyan, Greg — *Uncertainty in Games* (2013).
+* Csikszentmihalyi, Mihaly — *Flow: The Psychology of Optimal Experience* (1990).
+* Elias, George Skaff — *Characteristics of Games* (2012).
+* Fullerton, Tracy — *Game Design Workshop* (2008).
+* Huizinga, Johan — *Homo Ludens* (1938).
+* Juul, Jesper — *Half-Real* (2005).
+* Koster, Raph — *A Theory of Fun for Game Design* (2004).
+* McCloud, Scott — *Understanding Comics* (1993).
+* McKee, Robert — *Story* (1997).
+* Norman, Donald A. — *The Design of Everyday Things* (1988); *Emotional Design* (2003).
+* Salen, Katie — *Rules of Play: Game Design Fundamentals* (2003); *The Game Design Reader* (2005).
+* Schell, Jesse — *The Art of Game Design: A Book of Lenses* (2008).
+* Swink, Steve — *Game Feel* (2008).
 
 
 ## Ouvrages francophones
@@ -96,6 +50,7 @@
 - Ichblah, Daniel — *Alexey Pajitnov : L'incroyable histoire du créateur de Tetris*. ISBN: 9782371880139.
 - Pascal, Antoine — *Electronix - Jeux électroniques & premières consoles portables*. ISBN: 9782737391101.
 - Perron, Bernard; Pante, Isaac; Krichane, Selim; Rochat, Yannick — *Penser (avec) la culture vidéoludique : discours, pratiques, pédagogie*. Presses Univ. de Liège, 26 janv. 2023. 147 pages.
+- Perron, Bernard; *Jouer Numéro 9*, printemps 2007. <https://www.erudit.org/fr/revues/im/2007-n9-im1814828/> 
 - Vigneau, Chloé — *Apprendre par la création de jeu vidéo : propositions pour la conception et la production de templates à visée pédagogique*. HESAM Université, 2024. Français. NNT: 2024HESAC013. <https://tel.archives-ouvertes.fr/tel-04739570>
 
 ## Ressources spécifiques à Godot

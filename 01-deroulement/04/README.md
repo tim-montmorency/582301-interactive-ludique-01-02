@@ -5,7 +5,7 @@
 
 ## Savoirs essentiels/Contenus
 
-[](../../03-savoirs/01/README.md ':include')
+[intégration des apprentissages](../../03-savoirs/01/README.md)
 
 ## Activités en classe
 
