@@ -1,2 +1,96 @@
 # 582301 interactivé ludique
 
+* Pondération : 2-2-1
+* Unités: 1 2/3
+* Heures d’enseignement : 60
+* Session: 3
+
+## Description du cours
+
+L’élève réalise un projet ludique sur ordinateur qui intègre des images et des échantillons sonores. Il doit créer une expérience ludique à travers laquelle l’interacteur progresse selon ses actions.  Ce cours permet à l’élève de se familiariser avec les logiciels d’intégration multimédia et d’assimiler les notions de base de l’interactivité : présentation d’actions à accomplir, mesure et communication de la réussite (succès ou échec) et progression.
+
+## Objectif intégrateur
+Réaliser une expérience ludique intégrant images et échantillons sonores dans laquelle l‘interacteur progresse en accomplissant des actions.
+
+## Compétence ministérielle
+- 015F  Exploiter les langages de programmation utilisés en multimédia (éléments 1, 4, 5).
+- 015W  Effectuer le montage des médias à l’aide de logiciels d’intégration (éléments 1, 2, 3, 4).
+
+## Contenus
+
+<!-- start-replace-subnav depth=3 -->
+* [Déroulement](/01-deroulement/)
+    * [S1 : 2025/08/18](/01-deroulement/01/)
+    * [S2 : 2025/08/25](/01-deroulement/02/)
+    * [S3 : 2025/09/01](/01-deroulement/03/)
+    * [S4 : 2025/09/08](/01-deroulement/04/)
+    * [S5 : 2025/09/15](/01-deroulement/05/)
+    * [S6 : 2025/09/22](/01-deroulement/06/)
+    * [S7 : 2025/09/29](/01-deroulement/07/)
+    * [S8 : 2025/10/13](/01-deroulement/08/)
+    * [S9 : 2025/10/20](/01-deroulement/09/)
+    * [S10 : 2025/10/27](/01-deroulement/10/)
+    * [S11 : 2025/11/03](/01-deroulement/11/)
+    * [S12 : 2025/11/17](/01-deroulement/12/)
+    * [S13 : 2025/11/24](/01-deroulement/13/)
+    * [S14 : 2025/12/01](/01-deroulement/14/)
+    * [S15 : 2025/12/08](/01-deroulement/15/)
+* [Activités ](/02-activites/)
+    * [TP1](/02-activites/01/)
+    * [TP2](/02-activites/02/)
+    * [TP3](/02-activites/03/)
+    * [Projet Final](/02-activites/04/)
+* [Savoirs](/03-savoirs/)
+    * [Bloc 1 : Savoirs essentiels ](/03-savoirs/01/)
+        * [Notions d’interaction : interacteur, affordance](/03-savoirs/01/01-interactivite/)
+        * [Choix du logiciel](/03-savoirs/01/02-logiciels/)
+        * [Environnement de programmation](/03-savoirs/01/03-environnement-programmation/)
+        * [Installation et configuration des ressources nécessaires](/03-savoirs/01/04-installation/)
+        * [Classement des fichiers et des médias](/03-savoirs/01/05-classement-fichiers-medias/)
+        * [Déclenchement d’échantillons sonores](/03-savoirs/01/06-declenchement-sonore/)
+        * [Effets combinatoires entre intéractions de clavier](/03-savoirs/01/07-effets-combinatoires/)
+        * [Intégration d’images dans l’environnement virtuel](/03-savoirs/01/08-image-environnement-virtuel/)
+        * [Animation d’éléments visuels](/03-savoirs/01/09-animation-elements-visuels/)
+        * [Compilation de l’application (web export)](/03-savoirs/01/10-compilation-export-web/)
+    * [Bloc 2 : Savoirs essentiels ](/03-savoirs/02/)
+        * [Notions d’interaction : interacteur, affordance (suite)](/03-savoirs/02/01-interactivite-suite/)
+        * [Détection de l’état du personnage (ex. collision, au sol, dans les airs)](/03-savoirs/02/02-etats/)
+        * [Indication visuelle et animation de l’état du personnage](/03-savoirs/02/03-etats-animation/)
+        * [Création d’un environnement virtuel navigable](/03-savoirs/02/04-deplacement-environnement/)
+        * [Configuration de la caméra virtuelle 2D](/03-savoirs/02/05-camera2d/)
+        * [Détection de collisions pour le déclenchement d’évènements](/03-savoirs/02/06-collisions/)
+        * [Intégration de médias sonores dans l’environnement virtuel](/03-savoirs/02/07-localisation-sonore/)
+        * [Fonctionnement d’une interface virtuelle (menu)](/03-savoirs/02/08-menu/)
+        * [Création d'un objet interactif qui change le comportement du niveau ou du personnage](/03-savoirs/02/09-objet-comportement/)
+    * [Bloc 3 ](/03-savoirs/03/)
+        * [Notions d’interaction : interacteur, affordance, engagement et agentivité](/03-savoirs/03/01-interactivite-suite/)
+        * [États, niveaux et progression](/03-savoirs/03/02-etat-niveau-progression/)
+        * [Programmation d’un système de clé et de porte](/03-savoirs/03/03-clef-porte/)
+        * [Progression en fonction de la réussite d’une action](/03-savoirs/03/04-progression-conditionnelle/)
+        * [Transitions de scènes](/03-savoirs/03/05-transition-scene/)
+        * [Indication visuelle et sonore des réussites et échecs d’interaction](/03-savoirs/03/06-indication-etat/)
+        * [Intégration d’une interface graphique HUD («Head-Up Display»)](/03-savoirs/03/07-hud/)
+    * [Bloc 4 ](/03-savoirs/04/)
+        * [Intégration réussie d'une expérience ludique intuitive combinant images et échantillons sonores.](/03-savoirs/04/01-experience-ludique/)
+        * [Implémentation réussie des mécaniques de jeu telles que la progression, les succès/échecs et l'interactivité de l'utilisateur.](/03-savoirs/04/02-mecanique-jeu/)
+        * [Utilisation efficace des technologies pour assurer la performance et la compatibilité de l'expérience.](/03-savoirs/04/03-performance/)
+        * [Qualité et structure du code source, respectant les bonnes pratiques de programmation.](/03-savoirs/04/04-code-source/)
+        * [Conception, réalisation et integration des médias audiovisuels originaux.](/03-savoirs/04/05-conception-media/)
+        * [Citation adéquate des médias externes utilisés.](/03-savoirs/04/06-medias-externes/)
+        * [Documentation, présentation et crédits en ligne du projet de jeu.](/03-savoirs/04/07-documentation-mise-en-ligne/)
+* [Évaluations](/04-evaluations/)
+    * [Évaluations formatives](/04-evaluations/formatives/)
+        * [EV-F TP 1 : Scène réactive](/04-evaluations/formatives/01/)
+        * [EV-F TP 2 : Personnage et environnement](/04-evaluations/formatives/02/)
+        * [EV-F TP 3 : Niveaux, progression et menu](/04-evaluations/formatives/03/)
+        * [EV-F - Intégration des apprentissages](/04-evaluations/formatives/04/)
+    * [Évaluations sommatives](/04-evaluations/sommatives/)
+        * [EV-S TP 1 : Scène réactive](/04-evaluations/sommatives/01/)
+        * [TP 2 : Personnage et environnement](/04-evaluations/sommatives/02/)
+        * [TP 3 : Niveaux, progression et menu](/04-evaluations/sommatives/03/)
+        * [EVS : Intégration des apprentissages](/04-evaluations/sommatives/04/)
+* [Médiagraphie](/05-mediagraphie/)
+* [PIEA](/06-piea/)
+<!-- end-replace-subnav -->
+
+
