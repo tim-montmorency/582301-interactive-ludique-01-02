@@ -1,4 +1,4 @@
-# TP 2 : Personnage et environnement
+# EVS TP2 : Personnage et environnement
 
 [Séance 8](../../../01-deroulement/08/)
 

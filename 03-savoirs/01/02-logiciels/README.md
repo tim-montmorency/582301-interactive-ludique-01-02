@@ -86,9 +86,8 @@ Si plusieurs réponses « oui », évaluer le compromis via la grille ci-dessous
     * [Godot](/03-savoirs/01/02-logiciels/02-engin-de-jeux/godot/)
     * [Unity](/03-savoirs/01/02-logiciels/02-engin-de-jeux/unity/)
     * [Unreal Engine](/03-savoirs/01/02-logiciels/02-engin-de-jeux/unreal/)
-* [10-creation-visuelle](/03-savoirs/01/02-logiciels/10-creation-visuelle/)
-* [20-creation-sonore](/03-savoirs/01/02-logiciels/20-creation-sonore/)
-* [Comparatif rapide des frameworks](/03-savoirs/01/02-logiciels/framework_comparison/)
+* [Outils de création visuel](/03-savoirs/01/02-logiciels/10-creation-visuelle/)
+* [Outils de création sonore](/03-savoirs/01/02-logiciels/20-creation-sonore/)
 <!-- end-replace-subnav -->
 
 

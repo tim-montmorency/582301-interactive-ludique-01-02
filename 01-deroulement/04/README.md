@@ -3,7 +3,6 @@
 ## À préparer avant la classe
 * Finaliser le [TP1](../../02-activites/01/)
 
-
 ## Savoirs essentiels/Contenus
 
 [](../../03-savoirs/01/README.md ':include')

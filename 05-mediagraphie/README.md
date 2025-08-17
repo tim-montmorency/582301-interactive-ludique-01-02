@@ -3,7 +3,6 @@
 ## Arts numérique
 
 - Bohnacker, Hartmut; Benedikt Gross; Julia Laub — *Generative Design: Visualize, Program, and Create with Processing*. New York: Princeton Architectural Press, 2012.
-- Département technique d’intégration multimédia du Collège Montmorency — *Guide étudiant TIM*, 2020. <https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=OJznfa>
 - Fakhruddin, Nazia; Haseeb Zeeshan; Aqil Zeeshan — *Superfun P5.js Projects: For Beginners*. Independently published, 2019.
 - Fry, Ben — *Visualizing Data: Exploring and Explaining Data with the Processing Environment*. Sebastopol, CA: O’Reilly Media, 2007.
 - Gross, Benedikt; Hartmut Bohnacker — *Generative Design: Visualize, Program, and Create with JavaScript in P5.js*. New York: Princeton Architectural Press, 2018.
@@ -18,8 +17,7 @@
 - Shiffman, Daniel — *Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction*. 2nd ed. Amsterdam: Morgan Kaufmann, 2015.
 
 
-## Design de jeu
-
+## Programmation jeu vidéo
 
 - Adams, Ernest W.; Dormans, Joris — *Game Mechanics: Advanced Game Design* (2012).
 - Adams, Ernest — *Fundamentals of Game Design* (2006).

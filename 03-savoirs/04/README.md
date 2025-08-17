@@ -1,4 +1,4 @@
-# Bloc 4 
+# Intégration des apprentissages
 
 <!-- start-replace-subnav depth=1 -->
 * [Intégration réussie d'une expérience ludique intuitive combinant images et échantillons sonores.](/03-savoirs/04/01-experience-ludique/)

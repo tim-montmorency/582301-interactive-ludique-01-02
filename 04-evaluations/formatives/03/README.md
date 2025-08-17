@@ -1,4 +1,4 @@
-# EV-F TP 3 : Niveaux, progression et menu
+# EVF TP 3 : Niveaux, progression et menu
 
 [Séance 10](../../../01-deroulement/10/)
 

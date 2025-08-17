@@ -1,4 +1,4 @@
-# Bloc 1 : Savoirs essentiels 
+# Scène interactive
 
 <!-- start-replace-subnav depth=1 -->
 * [Notions d’interaction : interacteur, affordance](/03-savoirs/01/01-interactivite/)

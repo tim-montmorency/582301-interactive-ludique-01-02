@@ -6,7 +6,7 @@
 
 ## Savoirs essentiels/Contenus
 
-[](../../03-savoirs/01/README.md ':include')
+[Compilation de l’application (web export)](../../03-savoirs/01//10-compilation-export-web/)
 
 ## Activités en classe
 

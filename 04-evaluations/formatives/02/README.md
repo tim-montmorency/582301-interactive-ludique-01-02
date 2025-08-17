@@ -1,4 +1,4 @@
-# EV-F TP 2 : Personnage et environnement
+# EVF TP 2 : Personnage et environnement
 
 [Séance 7](../../../01-deroulement/07/)
 

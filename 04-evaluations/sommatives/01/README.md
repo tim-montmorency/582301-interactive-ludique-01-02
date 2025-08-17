@@ -1,4 +1,4 @@
-# EV-S TP 1 : Scène réactive
+# EVS TP1 : Scène réactive
 
 [Séance 4](../../../01-deroulement/04/)
 

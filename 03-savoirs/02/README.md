@@ -1,4 +1,4 @@
-# Bloc 2 : Savoirs essentiels 
+# Personnage et environnement
 
 <!-- start-replace-subnav depth=1 -->
 * [Notions d’interaction : interacteur, affordance (suite)](/03-savoirs/02/01-interactivite-suite/)

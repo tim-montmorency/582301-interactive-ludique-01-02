@@ -1,4 +1,4 @@
-# EV-F - Intégration des apprentissages
+# EVF - Intégration des apprentissages
 
 [Séance 14](../../../01-deroulement/14/)
 

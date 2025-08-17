@@ -1,4 +1,4 @@
-# EVS : Intégration des apprentissages
+# EVS-4 projet: Intégration des apprentissages
 
 [Séance 15](../../../01-deroulement/15/)
 
