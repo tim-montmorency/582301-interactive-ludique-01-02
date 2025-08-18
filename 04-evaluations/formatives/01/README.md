@@ -1,4 +1,4 @@
-# EVF TP 1 : Interactivité réactive
+# EVF TP 1 : Scène réactive
 
 [Séance 3](../../../01-deroulement/03/)
 

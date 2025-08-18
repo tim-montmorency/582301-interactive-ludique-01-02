@@ -1,7 +1,7 @@
 # Scène interactive
 
 <!-- start-replace-subnav depth=1 -->
-* [Notions d’interaction : interacteur, affordance](/03-savoirs/01/01-interactivite/)
+* [Notions d’interaction : interacteur, interaction, interactivité, affordance](/03-savoirs/01/01-interactivite/)
 * [Choix du logiciel](/03-savoirs/01/02-logiciels/)
 * [Environnement de programmation](/03-savoirs/01/03-environnement-programmation/)
 * [Installation et configuration des ressources nécessaires](/03-savoirs/01/04-installation/)
