@@ -1,18 +1,11 @@
-# S2 : 2025/08/25
-
+# S2 : <!-- varexp:begin S2 -->2025-08-29<!-- varexp:end -->
 
 ## À préparer avant la classe
 
-* Familiarisation avec l'engin de jeu et 
-* Collecte multimédia (sons, images)
+- [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)
 
 ## Savoirs essentiels/Contenus
 
-* [Déclenchement d’échantillons sonores](../../03-savoirs/01/06-declenchement-sonore/)
-* [Effets combinatoires entre intéractions de clavier](../../03-savoirs/01/07-effets-combinatoires/)
-* [Intégration d’images dans l’environnement virtuel](../../03-savoirs/01/08-image-environnement-virtuel/)
-* [Animation d’éléments visuels](../../03-savoirs/01/09-animation-elements-visuels/)
+* [Introduction à Godot](/02-savoirs/05-intro-godot/)
 
 ## Activités en classe
-
-* Travail sur le [TP1](../../02-activites/01/)

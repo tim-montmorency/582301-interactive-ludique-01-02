@@ -1,24 +1,6 @@
 # Médiagraphie
 
-## Arts numérique
-
-- Bohnacker, Hartmut; Benedikt Gross; Julia Laub — *Generative Design: Visualize, Program, and Create with Processing*. New York: Princeton Architectural Press, 2012.
-- Fakhruddin, Nazia; Haseeb Zeeshan; Aqil Zeeshan — *Superfun P5.js Projects: For Beginners*. Independently published, 2019.
-- Fry, Ben — *Visualizing Data: Exploring and Explaining Data with the Processing Environment*. Sebastopol, CA: O’Reilly Media, 2007.
-- Gross, Benedikt; Hartmut Bohnacker — *Generative Design: Visualize, Program, and Create with JavaScript in P5.js*. New York: Princeton Architectural Press, 2018.
-- Leach, Neil; Philip F. Yuan — *Computational Design*. Shanghai: Tongji University Press Co., Ltd, 2018.
-- Lostritto, Carl — *Computational Drawing: From Foundational Exercises to Theories of Representation*. Novato: Applied Research & Design, 2019.
-- McCarthy, Lauren; Casey Reas; Ben Fry — *Getting Started with P5.js: Making Interactive Graphics in JavaScript and Processing*. San Francisco, CA: Make Community, LLC, 2015.
-- Reas, Casey — *Casey Reas: Making Pictures with Generative Adversarial Networks*. Anteism Books, 2019.
-- Reas, Casey; Ben Fry — *Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics*. 2nd ed. Make Community, LLC, 2015.
-- *Make: Getting Started with Processing*. Beijing; Sebastopol, CA: Make Community, LLC, 2010.
-- *Processing: A Programming Handbook for Visual Designers and Artists*. 2nd ed. Cambridge, MA: The MIT Press, 2014.
-- Reas, Casey; Chandler McWilliams — *Form+Code in Design, Art, and Architecture: Introductory Book for Digital Design and Media Arts*. New York: Princeton Architectural Press, 2010.
-- Shiffman, Daniel — *Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction*. 2nd ed. Amsterdam: Morgan Kaufmann, 2015.
-
-
-## Programmation jeu vidéo
-
+## Théorie des jeux vidéo
 
 * Bartle, R. A. (2003). *Designing Virtual Worlds*. New Riders. ([Wikipedia][1])
 * Bogost, I. (2007). *Persuasive Games: The Expressive Power of Videogames*. The MIT Press. ([MIT Press][2])
@@ -34,6 +16,7 @@
 * McKee, R. (1997). *Story: Substance, Structure, Style, and the Principles of Screenwriting*. ReganBooks. ([Amazon][14])
 * Norman, D. A. (1988). *The Psychology of Everyday Things*. Basic Books. \[Retitré en 1989 : *The Design of Everyday Things*, Basic Books ; éd. révisée 2013.] ([eBay][15])
 * Norman, D. A. (2003). *Emotional Design: Why We Love (or Hate) Everyday Things*. Basic Books. ([inventoridigiochi.it][16])
+* Nystrom, Robert. *Game Programming Patterns*. <https://gameprogrammingpatterns.com/contents.html>
 * Salen, K., & Zimmerman, E. (2003). *Rules of Play: Game Design Fundamentals*. The MIT Press.
 * Salen, K., & Zimmerman, E. (2005). *The Game Design Reader: A Rules of Play Anthology*. The MIT Press. ([SCIRP][17])
 * Schell, J. (2008). *The Art of Game Design: A Book of Lenses*. Morgan Kaufmann. ([Academia][18])
@@ -56,18 +39,16 @@
 
 ## Ressources spécifiques à Godot
 
-- Documentation officielle — guide, tutoriels et référence API. <https://docs.godotengine.org/>
-- Godot demo projects — dépôt officiel avec exemples et petits projets à étudier et modifier. <https://github.com/godotengine/godot-demo-projects>
+- Documentation officielle (en français) — guide, tutoriels et référence API. <https://docs.godotengine.org/fr/4.x/index.html>
+- Godot demo projects v1 — dépôt officiel avec exemples et petits projets à étudier et modifier. <https://github.com/godotengine/godot-demo-projects>
+- Godot demo projects v2  —  site web des projets démos avec versions jouables dans le navigateur. <https://tim-montmorency.com/godot-doc/#/godot-demo-projects/>
+- [Bibliothèque d'Assets de Godot](https://godotengine.org/asset-library/asset)
 - GDQuest — tutoriels, cours et articles avancés orientés Godot (bon pour bonnes pratiques et patterns). <https://www.gdquest.com/>
-
-
-
-
-
-
-
-
-
+- [GDQuest - Chaine Youtube](https://www.youtube.com/@Gdquest/playlists)
+- [Vidéo - Brackeys - Tutoriel de jeu vidéo 2D en Godot](https://www.youtube.com/watch?v=LOhfqjmasi0)
+- [Vidéo - Brackeys - Tutoriel sur GDScript](https://youtu.be/e1zJS31tr88)
+- [Paquets d'assets gratuits et libres crées par Kenney](https://kenney.nl)
+- [Paquets d'assets gratuits sur Itch.io](https://itch.io/game-assets/free)
 
 [1]: https://en.wikipedia.org/wiki/Designing_Virtual_Worlds "Designing Virtual Worlds"
 [2]: https://mitpress.mit.edu/9780262514880/persuasive-games/ "Persuasive Games"

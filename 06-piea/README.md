@@ -1,6 +1,5 @@
 # PIEA
 
-
 [Politique institutionnelle d’évaluation des apprentissages](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/regles-et-reglements/Politique_institutionnelle_evaluation_des_apprentissages_PIEA_2023.pdf)
 
 ## Règles d’évaluation des apprentissages

@@ -1,13 +1,8 @@
-# S14 : 2025/12/01
+# S14 : <!-- varexp:begin S14 -->2025-12-05<!-- varexp:end -->
 
 ## À préparer avant la classe
 
-[Avancer le projet intégrateur](../../02-activites/04/)
-
 ## Savoirs essentiels/Contenus
-
-[Intégration des apprentissages](../../03-savoirs/04/)
 
 ## Activités en classe
 
-[Évaluation formative 4](../../04-evaluations/formatives/04/)
