@@ -6,5 +6,6 @@
 * [Logiciels](/02-savoirs/03-logiciels/)
 * [Introduction à Godot](/02-savoirs/04-intro-godot/)
 * [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
+* [Projet simple](/02-savoirs/06-projet-simple/)
 <!-- end-replace-subnav -->
 

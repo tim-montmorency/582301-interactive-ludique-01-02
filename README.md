@@ -53,6 +53,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
             * [Unreal Engine](/02-savoirs/03-logiciels/03-moteurs-de-jeu/unreal/)
     * [Introduction à Godot](/02-savoirs/04-intro-godot/)
     * [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
+    * [Projet simple](/02-savoirs/06-projet-simple/)
 * [Évaluations](/03-evaluations/)
     * [Évaluations formatives](/03-evaluations/formatives/)
         * [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)
