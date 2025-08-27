@@ -2,6 +2,9 @@
 
 ## À préparer avant la classe
 
+- [TP1-EVF-1 : Finaliser le concept TP1](../../04-evaluations/formatives/01/)
+
+
 ## Savoirs essentiels/Contenus
 
 ## Activités en classe

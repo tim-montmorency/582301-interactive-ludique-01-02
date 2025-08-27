@@ -1,4 +1,4 @@
-# Personnage et environnement
+# 2) Personnage et environnement
 
 <!-- start-replace-subnav depth=1 -->
 * [Notions d’interaction : interacteur, affordance (suite)](/00_brouillon/13-savoirs/02/01-interactivite-suite/)

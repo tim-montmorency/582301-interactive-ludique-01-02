@@ -2,13 +2,13 @@
 
 ## Savoirs essentiels/Contenus
 
-* [Introduction aux jeux vidéo](/02-savoirs/01-intro-jeux-video/)
-* [Notions d’interaction](/02-savoirs/02-notions-interactions/)
-* [Choix du logiciel](/02-savoirs/03-logiciels/01-choix-logiciel/)
-* [Environnement technologique](/02-savoirs/03-logiciels/02-env-techno/)
-* [Moteurs de jeu](/02-savoirs/03-logiciels/03-moteurs-de-jeu/)
-* [Introduction à Godot](/02-savoirs/05-intro-godot/)
-* [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
+* [Introduction aux jeux vidéo](../../03-savoirs/01/01-intro-jeux-video/)
+* [Notions d’interaction](../../03-savoirs/01/02-notions-interactions/)
+* [Choix du logiciel](../../03-savoirs/01/03-logiciels/)
+* [Environnement technologique](../../03-savoirs/01/04-installation/)
+* [Moteurs de jeu](/03-savoirs/03-logiciels/03-moteurs-de-jeu/)
+* [Introduction à Godot](/03-savoirs/05-intro-godot/)
+* [Classement des fichiers et des médias](/03-savoirs/05-classement-fichiers/)
 
 ## Activités en classe
 
