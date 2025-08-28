@@ -2,6 +2,8 @@
 
 [Séance 10](../../../01-deroulement/10/)
 
+Vérification (une séance avant l’évaluation sommative) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
+
 ### Description
 
 Création d'un jeu avec plusieurs niveaux qui détourne un jeu-base dans une nouvelle direction d'interaction et jouabilité. Exploration de systèmes de progression conditionnel style clé-et-porte et transitions entre scènes. Ce projet peut servir de base pour les projets suivants. 

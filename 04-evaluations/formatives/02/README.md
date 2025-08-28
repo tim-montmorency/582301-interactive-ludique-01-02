@@ -2,6 +2,8 @@
 
 [Séance 7](../../../01-deroulement/07/)
 
+Vérification (une séance avant l’évaluation sommative) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
+
 ### Description
 
 Prototype de niveau de jeu avec un personnage dynamique et un environnement physique interactif. Implémentation de logique de mouvement et états de personnage intégrés à un espace cohérent et fonctionnel. Ce projet peut servir de base pour les projets suivants.

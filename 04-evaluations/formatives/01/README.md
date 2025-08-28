@@ -2,6 +2,8 @@
 
 [Séance 3](../../../01-deroulement/03/)
 
+Vérification (une séance avant l’évaluation sommative) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
+
 ### Description
 
 Création d'une scène interactive avec le moteur de jeu Godot. Cette scène explore la combinaison entre réactivité audiovisuelle et interactions avec le clavier, au même temps que les fonctionnalités de base pour l'intégration média en Godot.

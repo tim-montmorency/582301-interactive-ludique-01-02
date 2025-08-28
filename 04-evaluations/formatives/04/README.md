@@ -2,6 +2,8 @@
 
 [Séance 14](../../../01-deroulement/14/)
 
+Vérification (une séance avant l’évaluation sommative) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
+
 ### Description
 
 Réaliser une expérience ludique intégrant images et échantillons sonores dans laquelle l'interacteur progresse en accomplissant des actions. 
