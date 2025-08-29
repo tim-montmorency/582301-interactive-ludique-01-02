@@ -6,9 +6,8 @@
 * [Notions d’interaction](../../03-savoirs/01/02-notions-interactions/)
 * [Choix du logiciel](../../03-savoirs/01/03-logiciels/)
 * [Environnement technologique](../../03-savoirs/01/04-installation/)
-* [Moteurs de jeu](/03-savoirs/03-logiciels/03-moteurs-de-jeu/)
-* [Introduction à Godot](/03-savoirs/05-intro-godot/)
-* [Classement des fichiers et des médias](/03-savoirs/05-classement-fichiers/)
+* [Introduction à Godot](../../03-savoirs/01/10-intro-godot/)
+* [Classement des fichiers et des médias](../../03-savoirs/01/11-classement-fichiers/)
 
 ## Activités en classe
 
