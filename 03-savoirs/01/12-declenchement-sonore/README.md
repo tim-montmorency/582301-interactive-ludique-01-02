@@ -1,8 +1,18 @@
 # Déclenchement d’échantillons sonores
 
+## Example de déclenchement sonore simple
+
+* [code source](https://github.com/gllmAR/gd-example-audio-playback)
+* [lien jouable](https://gllmar.github.io/gd-example-audio-playback/)
 
 
-## 0) Contexte Web en 30 s
+
+[documentation remote](https://raw.githubusercontent.com/gllmAR/gd-example-audio-playback/refs/heads/main/README.md ':include')
+
+
+## Informations complémentaires
+
+### 0) Contexte Web en 30 s
 
 * **Depuis Godot 4.3, l’export Web est *monothread* par défaut** (plus compatible sur iOS/macOS et les portails comme itch.io). Pour éviter les craquements audio en mono-thread, Godot utilise par défaut un **mode de lecture “Sample” via Web Audio**, pensé pour la faible latence — mais **avec des limites** (pas d’AudioEffects, pas de réverb/Doppler, génération procédurale non supportée, spatialisation parfois imparfaite). ([Godot Engine][1], [docs.godotengine.org][2])
 * Si vous **activez les threads** pour retrouver la lecture “Stream” (latence plus haute mais effets et pitch complets), vous devrez **isoler le site** (COOP/COEP) ou **activer PWA** pour injecter automatiquement ces en-têtes. ([docs.godotengine.org][3], [Godot Engine][1])
@@ -10,7 +20,7 @@
 
 ---
 
-## 1) Choisir le bon nœud audio (avec docs)
+### 1) Choisir le bon nœud audio (avec docs)
 
 * **Sons non-positionnels** (UI, musique) → `AudioStreamPlayer`. ([docs.godotengine.org][4])
 * **Sons 2D spatialisés** → `AudioStreamPlayer2D` (+ `AudioListener2D` si vous voulez déplacer l’“oreille”). ([docs.godotengine.org][5])
@@ -19,7 +29,7 @@
 
 ---
 
-## 2) Déclencher un son par **événement** (signals) — compatible Web
+### 2) Déclencher un son par **événement** (signals) — compatible Web
 
 ### Exemple : jouer un SFX quand le joueur entre dans une zone
 
@@ -39,13 +49,13 @@ func _on_body_entered(_body: Node) -> void:
 
 `Area2D` émet `body_entered`/`area_entered` ; les **signals** sont la façon idiomatique de réagir aux événements. ([docs.godotengine.org][8])
 
-### Exemple : timing précis avec `AnimationPlayer`
+## Exemple : timing précis avec `AnimationPlayer`
 
 Dans une cinématique/UI, ajoutez une **Call Method Track** qui appelle `play()` au timecode voulu (aucun problème côté Web). ([docs.godotengine.org][9])
 
 ---
 
-## 3) “Déverrouiller” l’audio sur navigateur (autoplay)
+### 3) “Déverrouiller” l’audio sur navigateur (autoplay)
 
 Sur le Web, l’audio **ne démarre qu’après un geste** (clic/toucher/touche). Montrez un écran “Cliquer pour activer l’audio”, puis jouez un son court pour initialiser le contexte.
 
@@ -72,7 +82,7 @@ Pourquoi ? **Le plein écran et l’audio doivent découler d’un événement d
 
 ---
 
-## 4) **Playback Type** : *Sample* (par défaut Web) vs *Stream*
+### 4) **Playback Type** : *Sample* (par défaut Web) vs *Stream*
 
 * **Par défaut sur le Web** : `AudioStreamPlayer[2D/3D]` utilisent **Sample** → **latence faible**, mais **pas d’AudioEffects** (ni réverb/Doppler) et certains comportements (pitch, spatialisation avancée) peuvent être limités. Réglage global : *Project Settings → Audio > General > Default Playback Type (web)*, ou propriété **`playback_type`** par nœud. ([docs.godotengine.org][2])
 * **Besoin d’effets/pitch complets** ? Passez **en “Stream”** (par nœud ou projet) **et** utilisez l’export **avec threads** + **isolation COOP/COEP** (ou **PWA** qui injecte ces en-têtes). Attendez-vous à **plus de latence**. ([docs.godotengine.org][3], [Godot Engine][1])
@@ -90,7 +100,7 @@ Cette API et le principe “Sample playback” sont détaillés dans le billet 4
 
 ---
 
-## 5) Optimiser **assets** et **mix** pour le Web
+### 5) Optimiser **assets** et **mix** pour le Web
 
 1. **Formats & taux d’échantillonnage**
 
@@ -110,7 +120,7 @@ Cette API et le principe “Sample playback” sont détaillés dans le billet 4
 
 ---
 
-## 6) Déclencheurs courants (patterns prêts à l’emploi)
+### 6) Déclencheurs courants (patterns prêts à l’emploi)
 
 * **Collision/zone** → `Area2D.body_entered` → `sfx.play()`. ([docs.godotengine.org][8])
 * **UI** → Bouton `pressed` → `click_sfx.play()` (fonctionne bien puisque c’est un geste utilisateur). ([docs.godotengine.org][4])
@@ -119,7 +129,7 @@ Cette API et le principe “Sample playback” sont détaillés dans le billet 4
 
 ---
 
-## 7) Check-list d’export **HTML5** orientée audio
+### 7) Check-list d’export **HTML5** orientée audio
 
 * **Single-thread (par défaut)** : simple et compatible → **Playback = Sample** (faible latence, pas d’effets). ([Godot Engine][1])
 * **Multi-thread** : si vous avez absolument besoin d’effets/pitch → activez **Thread Support** et assurez **COOP/COEP** côté serveur **ou** cochez **PWA → Ensure Cross Origin Isolation Headers**. ([docs.godotengine.org][3], [Godot Engine][1])
@@ -127,7 +137,7 @@ Cette API et le principe “Sample playback” sont détaillés dans le billet 4
 
 ---
 
-### Liens rapides (docs officielles des nœuds)
+#### Liens rapides (docs officielles des nœuds)
 
 `AudioStreamPlayer` • `AudioStreamPlayer2D` • `AudioStreamPlayer3D` • `AudioListener2D` • `AudioListener3D` • `AudioStream` • `AnimationPlayer / Call Method Track`. ([docs.godotengine.org][4])
 

@@ -44,6 +44,9 @@ func _ready():
     t.tween_property($Sprite2D, "modulate", Color(1,0.5,0.5), 0.6)
 ```
 
+voir l'exemple [2d/Tween](https://tim-montmorency.com/godot-doc//#/godot-demo-projects/2d/tween/)
+
+
 ## Autres outils utiles
 - AnimationTree / StateMachine : pour blend et systèmes d’animation avancés (surtout 3D, mais utile en 2D avancé). https://docs.godotengine.org/fr/4.x/classes/class_animationtree.html
 - Skeleton2D / Bone2D : rigs pour animation d’objets 2D découpés. https://docs.godotengine.org/fr/4.x/classes/class_skeleton2d.html
