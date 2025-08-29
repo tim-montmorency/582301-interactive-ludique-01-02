@@ -1,5 +1,10 @@
 # Animation d’éléments visuels
 
+## Example simple 
+
+* [gd-exemple-animation-button repository](https://github.com/gllmAR/gd-exemple-animation-button)
+* [gd-exemple-animation-button lien jouable](https://gllmar.github.io/gd-exemple-animation-button/)
+
 ## Animation via AnimatedSprite2D
 
 https://docs.godotengine.org/fr/4.x/tutorials/2d/2d_sprite_animation.html
