@@ -8,7 +8,7 @@ Convention a utiliser pour des travaux pratiques ou le projet intégrateur.
 # formule pour le nom du dossier racine: [NomDeFamille]-[Prénom]_[IdentifiantTravail]
 # voici un exemple: 
 
-- llagostera_enric-tp1/ # nom du dépôt sur GitHub
+- $nom_$prenom-tp1/ # nom du dépôt sur GitHub
     - docs/ # dossier avec l'exportation pour la web
     - projet/ # racine du projet Godot
         - project.godot # fichier avec infos du projet Godot, auto-crée

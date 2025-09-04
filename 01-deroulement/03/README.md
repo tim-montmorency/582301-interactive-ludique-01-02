@@ -7,4 +7,8 @@
 
 ## Savoirs essentiels/Contenus
 
+- [](../../03-savoirs/01/20-compilation-export-web/)
+
 ## Activités en classe
+
+- [Avancer le TP1](../../04-evaluations/sommatives/01/)
