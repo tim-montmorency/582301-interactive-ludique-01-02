@@ -35,6 +35,18 @@ if Input.is_action_just_pressed("play_sound"):
 
 ## Debug / test
 - Dans l'éditeur, panel Input Map → tester les bindings.
-- Tester les combinaisons simultanées (polyphony, gestion d'états) pour interactions complexes.
+- Tester les combinaisons simultanées (polyphonie, gestion d'états) pour interactions complexes.
 
 Utiliser l'Input Map rend le projet plus accessible, modulaire et simple à déboguer.
+
+## Références
+
+* https://docs.godotengine.org/fr/4.x/classes/class_inputmap.html
+
+* https://docs.godotengine.org/fr/4.x/tutorials/inputs/inputevent.html
+
+* https://docs.godotengine.org/fr/4.x/tutorials/inputs/input_examples.html
+
+* https://docs.godotengine.org/fr/4.x/tutorials/inputs/input_examples.html#events-versus-polling
+
+* https://docs.godotengine.org/fr/4.x/tutorials/inputs/input_examples.html#input-events

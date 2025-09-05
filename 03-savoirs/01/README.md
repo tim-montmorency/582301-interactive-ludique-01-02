@@ -11,6 +11,7 @@
 * [Effets combinatoires entre intéractions de clavier](/03-savoirs/01/13-effets-combinatoires/)
 * [Intégration d’images dans l’environnement virtuel](/03-savoirs/01/14-image-environnement-virtuel/)
 * [Animation d’éléments visuels](/03-savoirs/01/15-animation-elements-visuels/)
+* [Input map](/03-savoirs/01/16-input-map/)
 * [Introduction à GDScript (pour Godot 4.4.1)](/03-savoirs/01/19-gdscript/)
 * [Compilation de l’application (web export)](/03-savoirs/01/20-compilation-export-web/)
 * [Contrôle de la qualité](/03-savoirs/01/21-controle-qualite/)

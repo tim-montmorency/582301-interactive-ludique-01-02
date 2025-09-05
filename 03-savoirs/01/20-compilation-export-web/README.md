@@ -148,3 +148,9 @@ https://gllmar.github.io/gd-webexport-minimal/
 └── README.md
 
 ```
+
+## Réferences
+
+* https://docs.godotengine.org/fr/4.x/classes/class_editorexportplatformweb.html
+
+* https://docs.godotengine.org/fr/4.x/tutorials/export/exporting_for_web.html

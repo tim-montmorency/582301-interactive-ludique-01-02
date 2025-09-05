@@ -2,7 +2,7 @@
 
 Ce guide présente l'essentiel de GDScript (version utilisée en Godot 4.4.1) pour des étudiant·e·s qui connaissent déjà JavaScript. L'approche est pédagogique : montrer les similarités et différences utiles pour démarrer rapidement.
 
-## Contrat rapide
+## Survol rapide
 - Entrée : code GDScript dans des scripts attachés à des scènes Godot.
 - Sortie : comportements (mouvements, logique, interactions) exécutés par l'éditeur/compileur Godot.
 - Erreurs communes : noms de nœuds incorrects, types non initialisés, oublis de la méthode `_process` vs `_physics_process`.
