@@ -56,12 +56,12 @@ Important : Godot exporte depuis la racine du projet (le dossier contenant proje
   - fichier .pck (si utilisé)
 - Si l'export refuse d'écrire dans `../docs`, vérifier les permissions ou utiliser un chemin absolu (ex : `/Users/you/.../docs/index.html`) puis déplacer les fichiers.
 
-* ![alt text](image-1.png)
-* ![alt text](image-2.png)
-* ![alt text](image-3.png)
-* ![alt text](image-4.png)
-* ![alt text](image-5.png)
-* ![alt text](image-6.png)
+* ![Ajouter une exportation](image-1.png)
+* ![Sélectionner WEB ](image-2.png)
+* ![Cliquer sur le navigateur pour pointer la destination](image-3.png)
+* ![Naviguer vers ../docs, nommer index (le html sera rajouté)  ](image-4.png)
+* ![Appuyer sur Export all](image-5.png)
+* ![Bouton Release (publication)](image-6.png)
 
 7) Tester localement (important : ne pas ouvrir directement le fichier index.html dans le navigateur)
 - L'export WebAssembly nécessite un serveur HTTP pour charger adéquatement. Depuis vscode, utilisez *live server* pour tester
@@ -87,7 +87,7 @@ Important : Godot exporte depuis la racine du projet (le dossier contenant proje
 
 - Activer la publication de la page
 
- ![alt text](image-7.png)
+ ![Paramettres de publication dans github page](image-7.png)
 
 - Deploy from a branch
 - | main| /docs 
