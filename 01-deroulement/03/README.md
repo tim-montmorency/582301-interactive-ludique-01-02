@@ -7,6 +7,7 @@
 
 ## Savoirs essentiels/Contenus
 
+- [InputMap](../../03-savoirs/01/16-input-map/)
 - [Export godot -> web](../../03-savoirs/01/20-compilation-export-web/)
 - [Créer des issues dans github](../../03-savoirs/01/21-issue-github/)
 

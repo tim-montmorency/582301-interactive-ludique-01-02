@@ -39,7 +39,8 @@ Comment créer un bon issue dans github et améliorer le controle de la qualité
 ## Bonnes pratiques pour pièces jointes
 
 - Captures : recadrer pour montrer l'élément pertinent.
-- Vidéo/GIF : 5–15 s montrant la reproduction.
+- Vidéo/GIF : 5–15 s montrant la reproduction. 
+   - Attention, garder vos fichier en dessous de 10 megs pour simplifier le téléversement dans github
 - Logs : coller la sortie d'erreur ou capture de la console réseau (pour web .wasm/.js).
 - Fichiers : si nécessaire, pointer vers la scène ou le fichier (ex : res://scenes/level1.tscn).
 
