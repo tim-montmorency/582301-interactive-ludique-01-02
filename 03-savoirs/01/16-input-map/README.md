@@ -8,23 +8,25 @@ Project → Project Settings → Input Map.
 - Ajouter une action (ex. "jump", "play_sound").  
 - Assigner une ou plusieurs entrées : touches clavier, boutons souris, boutons de manette, axes.
 
-* ![alt text](image.png)
+![Paramètre de projet](image.png)
 
-* ![alt text](image-1.png)
+![Input Map (contrôle)](image-1.png)
 
-* ![alt text](image-2.png)
+![Définir un nom de fonction à appeler](image-2.png)
 
 ## Utilisation en code (GDScript)
-- Vérifier un appui :
-  - Input.is_action_just_pressed("action_name")
-  - Input.is_action_pressed("action_name")
-  - Input.is_action_just_released("action_name")
 
-Exemple :
+- Méthode d'appel 
+  - Input.is_action_just_pressed("action_name") <- meilleur
+  - Input.is_action_pressed("action_name") <- déclenché plusieurs fois
+  - Input.is_action_just_released("action_name") <- quand on relache la touche
+
+Exemple : jump
+
 ```gdscript
-# play_sound.gd
-if Input.is_action_just_pressed("play_sound"):
-    $AudioStreamPlayer.play()
+func _input(event):
+	if event.is_action_pressed("jump"):
+		print("jump")
 ```
 
 ## Bonnes pratiques
