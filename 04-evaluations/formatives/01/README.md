@@ -14,19 +14,13 @@ Création d'une scène interactive avec le moteur de jeu Godot. Cette scène exp
 * [ ] Équipe
 
 
-### Savoirs essentiels, principaux critères d'évaluation
+### Autoévaluation et évaluation par les pairs 
 
-- Notions d’interaction : interacteur, affordance
-- Logiciels d’intégration d’expériences ludiques
-- Choix du logiciel
-- Environnement de programmation
-- Installation et configuration des ressources nécessaires
-- Classement des fichiers et des médias
-- Déclenchement d’échantillons sonores
-- Effets combinatoires entre intéractions de clavier
-- Intégration d’images dans l’environnement virtuel
-- Animation d’éléments visuels
-- Compilation de l’application (web export)   
+- [ ] Structure claire (projet/, assets/, docs/), noms explicites, pas de ressources hors projet
+- [ ] Tous les sons fonctionnent, pas de latence notable
+- [ ] Combinaisons son/visuel cohérentes et testées
+- [ ] Fonds/sprites bien positionnés, assets optimisés
+- [ ] Animations fluides et synchronisées aux événements
+- [ ] Export HTML5 fonctionnel dans docs/ et testé sur serveur local / GitHub Pages
+- [ ] Documentation en ligne adéquate (README.md)
 
-
-### 

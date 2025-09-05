@@ -76,6 +76,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [Animation d’éléments visuels](/03-savoirs/01/15-animation-elements-visuels/)
         * [Introduction à GDScript (pour Godot 4.4.1)](/03-savoirs/01/19-gdscript/)
         * [Compilation de l’application (web export)](/03-savoirs/01/20-compilation-export-web/)
+        * [Contrôle de la qualité](/03-savoirs/01/21-controle-qualite/)
         * [Projet simple](/03-savoirs/01/30-projet-simple/)
     * [Personnage et environnement](/03-savoirs/02/)
         * [Notions d’interaction : interacteur, affordance (suite)](/03-savoirs/02/01-interactivite-suite/)
