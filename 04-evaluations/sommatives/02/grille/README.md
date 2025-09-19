@@ -12,8 +12,8 @@ Chaque critère est noté de 1 à 4 :
 Total maximum : 40 points (10 critères × 4). La note finale pour le cours
 sera calculée à partir de ce total et convertie sur 20% (voir section Calcul).
 
-## Livrables obligatoires
-- Scene composé d'un personnage interactif, d'animation de déplacement (mouvement, saut),  objets interactif, menu.
+## Livrables 
+- Scene complète composée d'un personnage interactif, d'un environnement navigable, d'animation de déplacement (mouvement, saut),  d'objets interactif qui change un comportement,  interactivité sonores, un menu .
 - Export Web fonctionnel (lien déployé — ex. GitHub Pages). 
 - Dépôt Git en ligne (URL) contenant le code source et l'historique. 
 - Documentation de l'arborescence via `README.md` , intention et instructions d'opération,

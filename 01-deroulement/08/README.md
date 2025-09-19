@@ -2,7 +2,11 @@
 
 ## À préparer avant la classe
 
+Avoir terminée le TP2
+
 ## Savoirs essentiels/Contenus
+
 
 ## Activités en classe
 
+[Présentation, Evaluation sommative 2](../../04-evaluations/sommatives/02/)
