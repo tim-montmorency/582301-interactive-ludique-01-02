@@ -13,15 +13,12 @@ Total maximum : 40 points (10 critères × 4). La note finale pour le cours
 sera calculée à partir de ce total et convertie sur 20% (voir section Calcul).
 
 ## Livrables obligatoires
+- Scene composé d'un personnage interactif, d'animation de déplacement (mouvement, saut),  objets interactif, menu.
 - Export Web fonctionnel (lien déployé — ex. GitHub Pages). 
-- Dépôt Git en ligne (URL) contenant le code source et l'historique. Le dépôt
-	doit être accessible au correcteur (public ou accès partagé).
-- Documentation de l'arborescence via `README.md` , intention, instructions d'opération,
-- Documentation visuelles des interactions déplacement, saut, interaction avec
-	un objet, menu et chargement de l'export Web.
+- Dépôt Git en ligne (URL) contenant le code source et l'historique. 
+- Documentation de l'arborescence via `README.md` , intention et instructions d'opération,
 
-Un livrable manquant entraîne une pénalité, détaillée dans la section
-"Pénalités" ci‑dessous.
+
 
 ## Grille (10 critères — notation 1–4)
 
