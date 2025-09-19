@@ -3,10 +3,7 @@
 https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf
 
 
-Cette page propose une lecture ciblée du chapitre 8 — La théorie des
-affordances (The Theory of Affordances) de James J. Gibson, traduite en
-recommandations pratiques pour la conception de jeux vidéo et pour
-l'évaluation de prototypes.
+Cette page propose une lecture ciblée du chapitre 8 — La théorie des affordances (The Theory of Affordances) de James J. Gibson, traduite en recommandations pratiques pour la conception de jeux vidéo et pour l'évaluation de prototypes.
 
 ## Résumé rapide
 
@@ -44,37 +41,36 @@ Ajouter des indices supplémentaires pour corriger les illusions (ex. reflets / 
 
 Enrichit l'exploration et la créativité du joueur.
 
-7. Penser l'expérience, 
+7. Réfléchir l'expérience, 
 
-Créer des espaces avec des affordances résonantes
+Créer des espaces avec des affordances résonantes, profonde, découvrable, complexe etc.
 
 ## Exemples concrets
 
 ### Jeu de plateformes (platformer) 
 
 * Plateformes sautables 
-    * contraste de couleur 
-    * impression de surface
-
-si la plateforme est fragile, ajouter des particules de poussière et un son d'effritement.
+    * Contraste de couleur 
+    * Impression de surface
+    * Si la plateforme est fragile, ajouter des particules de poussière et un son d'effritement.
 
 * Objet ramassable (collectable) 
     * une lueur, 
     * un son aigu à la collecte 
+    * un comportement altéré conséquent
 
-- Porte/levier 
+* Porte/levier 
     * animation de pré-activation (clignotement) + son de métal
     * pour indiquer activabilité ; retour (feedback) immédiat à l'activation.
 
 
 ## Tester
 
-### Découvrabilité
+### Intuitif? 
 
-(discoverability test / démarrage à froid — cold-start)
+* Dont l'utilisation ne demande pas de connaissances préalable  (*Discoverability*)
 
-Procédure : présenter la scène à un joueur n'ayant reçu aucune instruction.
-Demander à l'observateur d'essayer d'accomplir l'objectif principal. Mesurer :
+Procédure : présenter la scène à un joueur n'ayant reçu aucune instruction.Demander à l'observateur d'essayer d'accomplir l'objectif principal. Mesurer :
 
 - Temps pour accomplir l'action-clé (seuil recommandé : < 30 s).
 - Nombre d'indices nécessaires (aide demandée, indications visuelles/sonores).
@@ -85,7 +81,9 @@ Critères :
 - Échec : l'action n'est pas réalisée.
 
 
-### Consistance (consistency test)
+### Consistant?
+
+* Répétition d'un même type de réponse dans le comportement d'un individu ou d'un sous-groupe ; dans un sondage, maintien d'une même opinion par un sujet interrogé.
 
 Procédure : répéter la même action 10 fois dans différents contextes (positions,
 vitesses, états). Noter les échecs et comportements aberrants.
@@ -96,13 +94,11 @@ Preuve : log des essais (10 entrées) ou vidéo regroupée avec timestamps.
 
 ### Calculer la latence (latency check)
 
-Procédure : mesurer le délai entre l'entrée du joueur (touche / clic) et le
-retour visible ou sonore fourni par le jeu. Répéter plusieurs fois et prendre
-la moyenne.
+Procédure : mesurer le délai entre l'entrée du joueur (touche / clic) et le retour visible ou sonore fourni par le jeu. Répéter plusieurs fois et prendre la moyenne.
 
 Seuils recommandés :
-- Excellent : < 100 ms
-- Satisfaisant : < 200 ms
+- Excellent : < 16 ms
+- Satisfaisant : < 100 ms
 - À améliorer : > 200 ms
 
 Preuve : capture d'écran timestampée ou log indiquant les temps mesurés.

@@ -2,8 +2,7 @@
 
 ## Qu'est-ce que l'interactivité ?
 
-Capacité d'un système à répondre aux actions d'un joueur de façon claire et
-utile.
+Capacité d'un système à répondre aux actions d'un joueur de façon claire et utile.
 
 ### Qualité de l'interactivité (critères rapides)
 
@@ -17,8 +16,7 @@ utile.
 ## Affordance (Gibson) — essentiel
 
 Affordance = ce que l'environnement offre à un acteur (possibilités d'action).
-En jeu : rendre ces possibilités visibles (couleur, animation, son) pour éviter
-les explications textuelles longues.
+En jeu : rendre ces possibilités visibles (couleur, animation, son) pour éviter les explications textuelles longues.
 
 ### Mise en pratique (actions simples)
 
@@ -29,8 +27,9 @@ les explications textuelles longues.
 
 ### Tester l'affordance
 
-- Découvrabilité : novice réussit l'action en <30 s ? (oui/non)
-- Latence moyenne <100 ms ? (oui/non)
+- Intuitif : novice réussit l'action en <30 s ? (oui/non)
+- Consistant : Répéter une action résulte le même comportement (oui/non)
+- Latence adéquate <100 ms ? (oui/non)
 - Échecs aux cas limites <10 % ? (oui/non)
 - Feedback multimodal présent ? (oui/non)
 - Objets réutilisables ? (oui/non)
