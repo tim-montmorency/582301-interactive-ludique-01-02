@@ -34,8 +34,12 @@
 ### Réaliser le tutoriel pas-à-pas
 
 * [Réaliser le tutoriel Dodge the Creep ](https://docs.godotengine.org/fr/4.x/getting_started/first_2d_game/index.html)
-
     * [Démo](https://tim-montmorency.com/godot-doc/godot-demo-projects/2d/dodge_the_creeps/exports/web/)
+    * [Corrigé](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps)
+
+* Références suplémentaires
+    * [Tutoriel en anglais](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
+    * [Tutoriel vidéo en anglais](https://www.youtube.com/watch?v=Gy_qTMRgwmI&list=PL58zEckBH8fCxGPggyAJkB1Mj9A-S9XB9)
 
 ### Explorer, dupliquer et transformer des exemples
 

@@ -10,7 +10,13 @@ Prototype de niveau de jeu avec un personnage dynamique et un environnement phys
 * [Évaluation sommative](../../04-evaluations/sommatives/02/README.md)
 
 
-## Example 
+## Tutoriel pas-à-pas
+
+* [Réaliser le tutoriel Dodge the Creep ](https://docs.godotengine.org/fr/4.x/getting_started/first_2d_game/index.html)
+    * [Démo](https://tim-montmorency.com/godot-doc/godot-demo-projects/2d/dodge_the_creeps/exports/web/)
+
+
+## Example de livrable 
 
 * [Jeu Platforme](https://egl-edu.github.io/exemple--plateforme/)
 * [Example Dépot Github](https://github.com/egl-edu/exemple--plateforme)
