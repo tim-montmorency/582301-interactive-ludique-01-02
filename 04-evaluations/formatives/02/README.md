@@ -2,11 +2,13 @@
 
 [Séance 7](../../../01-deroulement/07/)
 
-Vérification (une séance avant l’évaluation sommative) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
+Vérification (une séance avant l’[évaluation sommative 2](../../sommatives/02/) ) : tests réalisés par l’enseignant·e et les autres étudiant·e·s pour confirmer que le projet est sur la bonne voie.
 
 ### Description
 
 Prototype de niveau de jeu avec un personnage dynamique et un environnement physique interactif. Implémentation de logique de mouvement et états de personnage intégrés à un espace cohérent et fonctionnel. Ce projet peut servir de base pour les projets suivants.
+
+Voir la [grille d'évaluation](../../sommatives/02/grille/)
 
 #### Forme de l'évaluation
 
@@ -26,3 +28,4 @@ Prototype de niveau de jeu avec un personnage dynamique et un environnement phys
 - Intégration de médias sonores dans l’environnement virtuel
 - Fonctionnement d’une interface virtuelle (menu)
 - Création d'un objet interactif qui change le comportement du niveau ou du personnage
+
