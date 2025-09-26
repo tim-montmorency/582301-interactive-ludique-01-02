@@ -2,7 +2,7 @@
 
 ## À préparer avant la classe
 
-Avoir terminée le TP2
+* Avoir terminée le TP2
 
 ## Savoirs essentiels/Contenus
 
