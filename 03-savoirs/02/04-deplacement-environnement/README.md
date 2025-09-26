@@ -34,7 +34,7 @@ Quand un noeud TileMapLayer est selectionné, il montre la grille à la scène. 
 
 ## Examples
 
-* [https://github.com/egl-edu/exemple--plateforme/blob/main/projet_godot/assets/paysage_tile_set.tres](https://github.com/egl-edu/exemple--plateforme/blob/main/projet_godot/assets/paysage_tile_set.tres)
+* [Example d'un tile set](https://raw.githubusercontent.com/egl-edu/exemple--plateforme/refs/heads/main/projet_godot/assets/spritesheets/paysage_tile_set.tres)
 
 * https://tim-montmorency.com/godot-doc/#/godot-demo-projects/2d/dynamic_tilemap_layers/
 
