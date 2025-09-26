@@ -27,6 +27,11 @@ Le point de départ pour les tilemaps sur Godot est le noeud `TileMapLayer`.
 
 Quand un noeud TileMapLayer est selectionné, il montre la grille à la scène. On doit ajouter des ressources `TileSet` pour définir la palette de tuiles et ses propriétes. Après, dans l'éditeur de TileMap à droite, c'est possible de choisir quelles tuiles ou terrains à utiliser pour ajouter à l'environnement.
 
+## Tutoriel vidéo
+
+* Tilemap via Enric https://www.youtube.com/watch?v=B_y0oJMRjSs
+
+
 ## Examples
 
 * [https://github.com/egl-edu/exemple--plateforme/blob/main/projet_godot/assets/paysage_tile_set.tres](https://github.com/egl-edu/exemple--plateforme/blob/main/projet_godot/assets/paysage_tile_set.tres)
