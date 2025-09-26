@@ -19,7 +19,7 @@
 ### Rétroingénérie de l'exemple de platforme
 
 * [source](https://github.com/gllmAR/gd-plateforme-exemple)
-* [démo](gllmar.github.io/gd-plateforme-exemple)
+* [démo](http://gllmar.github.io/gd-plateforme-exemple)
 
 
 ### Explorer, dupliquer et transformer d'autres exemples
