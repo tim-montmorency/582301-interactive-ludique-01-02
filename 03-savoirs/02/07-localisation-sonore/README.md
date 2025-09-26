@@ -4,11 +4,14 @@
 
 Dans l'exemple [gllmar.github.io/gd-plateforme-exemple](https://gllmar.github.io/gd-plateforme-exemple), trois types de sons sont intégrés :
 
-###  Son d'action associé au personnage 
+* Dépot : https://github.com/gllmar/gd-plateforme-exemple/
+
+
+### Son d'action du personnage 
 
 Le lecteur audio (`AudioStreamPlayer2D`) est placé dans la scène du personnage. Le son est centré, non localisé, et suit le joueur.
 
-### Son d'événement (collecte de cœur/powerup)** 
+### Son d'un événement (collecte de cœur/powerup)
 
 Le son déclenché lors de l'interaction avec un objet (Detection de colision). Utilise également un `AudioStreamPlayer2D` pour un effet immédiat et centré. 
 
@@ -25,15 +28,15 @@ https://docs.godotengine.org/en/stable/classes/class_audiolistener2d.html
 
 ##### Côté joueur
 
-Ajoute un nœud `AudioListener2D` sous ton joueur.
+Ajouter un nœud `AudioListener2D` sous ton joueur.
 
-Dans l’Inspecteur, coche Current = On (c’est l’oreille).
+Dans l’Inspecteur, cocher `Current = On` (c’est l’oreille).
 
-(Option) Le listener peut rester enfant du joueur : il suivra le joueur automatiquement.
+(Option) Le listener peut rester enfant du joueur : il suivra le joueur automatiquement ses déplacements.
 
 ##### Côté feu de camp (la source)
 
-Dans la scène de la  
+Dans la scène du feu de camp, avoir les éléments suivants 
 
 * `AnimatedSprite2D` (visuel)
 * `AudioStreamPlayer2D` (sonore)
