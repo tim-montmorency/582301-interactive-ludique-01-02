@@ -2,10 +2,12 @@
 
 ## Exemple de référence
 
-Dans l'exemple [gllmar.github.io/gd-plateforme-exemple](https://gllmar.github.io/gd-plateforme-exemple), trois types de sons sont intégrés :
+Dans l'exemple de jeu de platforme, 
 
 * Dépot : https://github.com/gllmar/gd-plateforme-exemple/
+* Démo jouable : [gllmar.github.io/gd-plateforme-exemple](https://gllmar.github.io/gd-plateforme-exemple)
 
+Trois types de sons sont intégrés :
 
 ### Son d'action du personnage 
 
