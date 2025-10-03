@@ -23,4 +23,5 @@
         * [Unreal Engine](/05-ressources-rapides/02-logiciels/02-engin-de-jeux/unreal/)
     * [Outils de création visuel](/05-ressources-rapides/02-logiciels/10-creation-visuelle/)
     * [Outils de création sonore](/05-ressources-rapides/02-logiciels/20-creation-sonore/)
+* [Assets](/05-ressources-rapides/03-assets/)
 <!-- end-replace-subnav -->
