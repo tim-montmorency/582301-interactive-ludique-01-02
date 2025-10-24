@@ -102,7 +102,6 @@ Références pédagogiques
 - Voir aussi : `03-savoirs/03/07-hud/README.md` (HUD contextuel) et `03-savoirs/03/02-etat-niveau-progression/README.md` (gating et persistance).
 
 Cette fiche vise un exemple simple et réutilisable pour les séances de TP. Si vous voulez, je peux créer les scripts fichiers (`key.gd`, `player.gd`, `door.gd`, `hud.gd`) et une scène d'exemple `scenes/clef_porte_demo.tscn` dans le dépôt.
-# Programmation d’un système de clé et de porte
 
 
 
