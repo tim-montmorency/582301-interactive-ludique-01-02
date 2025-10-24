@@ -2,3 +2,6 @@
 	path = docsh
 	url = https://github.com/tim-montmorency/docsh.git
 	branch = main
+[submodule "03-savoirs/03/00-example/gd-plateforme-niveaux"]
+	path = 03-savoirs/03/00-example/gd-plateforme-niveaux
+	url = https://github.com/gllmAR/gd-plateforme-niveaux.git
