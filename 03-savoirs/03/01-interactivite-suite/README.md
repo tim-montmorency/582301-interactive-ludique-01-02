@@ -2,20 +2,22 @@
 
 ## 1. Concepts
 
-* **Affordance** *(James J. Gibson, 1979)*
-  → Les **possibilités d’action offertes par un objet à un agent**, selon les capacités de celui-ci.
+### Affordance *(James J. Gibson, 1979)*
 
-  * *Affordance réelle* : ce que l’objet permet effectivement de faire.
-  * *Affordance perçue* : ce que l’utilisateur croit pouvoir faire (cruciale pour le design d’interfaces).
-    📚 [Wikipedia – Affordance](https://fr.wikipedia.org/wiki/Affordance)
+Les **possibilités d’action offertes par un objet à un agent**, selon les capacités de celui-ci.
 
-* **Agentivité (agency)**
-  → Sentiment du joueur d’avoir un **pouvoir d’action significatif** et d’influence sur le monde du jeu.
-  Elle repose sur la cohérence des règles, le feedback, et la perception de conséquences tangibles.
+* *Affordance réelle* : ce que l’objet permet effectivement de faire.
+* *Affordance perçue* : ce que l’utilisateur croit pouvoir faire (cruciale pour le design d’interfaces).
+* 📚 [Wikipedia – Affordance](https://fr.wikipedia.org/wiki/Affordance)
 
-* ⭐ **Engagement**
-  → Degré d’attention, d’émotion et d’investissement du joueur. Il dépend du rythme, du feedback sensoriel, de la narration et de la progression.
-  (Référence utile : *Flow theory*, Mihály Csíkszentmihályi, 1990)
+### Agentivité
+Sentiment du joueur d’avoir un **pouvoir d’action significatif** et d’influence sur le monde du jeu.
+Elle repose sur la cohérence des règles, le feedback, et la perception de conséquences tangibles.
+
+### Engagement
+
+Degré d’attention, d’émotion et d’investissement du joueur. Il dépend du rythme, du feedback sensoriel, de la narration et de la progression.
+(Référence utile : *Flow theory*, Mihály Csíkszentmihályi, 1990)
 
 ---
 
