@@ -120,3 +120,4 @@ func _on_key_collected(key_name: String) -> void:
 - Collecte : ramasser la clé et vérifier que l'icône HUD devient visible.
 - Porte fermée : tenter d'entrer sans clé et vérifier le feedback (son/message).
 - Porte ouverte : après collecte, approcher la porte et vérifier qu'elle s'ouvre et que la collision est désactivée.
+
