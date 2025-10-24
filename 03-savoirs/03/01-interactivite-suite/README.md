@@ -1,6 +1,6 @@
-# Notions d’interaction : interacteur, affordance, engagement et agentivité
+# Interacteur, affordance, engagement et agentivité
 
-## 1. Concepts
+## Concept
 
 ### Affordance *(James J. Gibson, 1979)*
 
@@ -19,9 +19,9 @@ Elle repose sur la cohérence des règles, le feedback, et la perception de cons
 Degré d’attention, d’émotion et d’investissement du joueur. Il dépend du rythme, du feedback sensoriel, de la narration et de la progression.
 (Référence utile : *Flow theory*, Mihály Csíkszentmihályi, 1990)
 
----
 
-## 2. Éléments qui rendent un jeu intuitif et affordant 
+
+## Rendre le jeu intuitif et affordant 
 
 Chaque point inclut un **indicateur mesurable** et un **exemple vidéoludique**.
 Ces critères peuvent servir à **évaluer un prototype** lors de playtests.
@@ -42,7 +42,7 @@ Ces critères peuvent servir à **évaluer un prototype** lors de playtests.
 
 ---
 
-## 3. Comment le joueur reconnaît qu’il peut interagir (modes de détection)
+## Comment le joueur reconnaît qu’il peut interagir (modes de détection)
 
 L’interacteur perçoit sa **capacité d’action** à travers des signaux contextuels.
 Ces modes peuvent aussi se traduire directement en termes **techniques (moteur de jeu)** :
@@ -63,7 +63,7 @@ Ces modes peuvent aussi se traduire directement en termes **techniques (moteur d
 
 
 
-## 4. Recommandations pratiques pour intégrateurs multimédias
+##  Recommandations pratiques
 
 * Fournir **au moins un signal visuel ou sonore** avant toute action attendue.
 * Documenter les **règles d’affordance** dans le *level design document*.

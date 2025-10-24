@@ -95,13 +95,13 @@ if body.has_method("has_key") and body.has_key("gold_key"):
 
 ## 4. Gestion de l'état et persistance
 
-Pour des jeux multi-niveaux, il est souvent nécessaire de conserver des informations entre scènes :
+Pour des jeux multi-niveaux plus complexe, il peut être nécessaire de conserver des informations entre les scènes ex:
 
 - progression (niveau atteint)
 - objets collectés
 - variables globales (vie, points)
 
-Solution courante : utiliser un autoload `GameState`/`Main` qui contient un dictionnaire d'état, et l'écrire sur disque pour la persistance.
+Une approche est d'utiliser un autoload `GameState`/`Main` qui contient un dictionnaire d'état, et l'écrire sur disque pour la persistance.
 
 Exemple simple :
 
