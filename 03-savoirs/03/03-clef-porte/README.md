@@ -44,7 +44,7 @@ extends Area2D
 func _on_body_entered(body: Node) -> void:
     if body.is_in_group("player") and body.has_method("collect_key"):
         body.collect_key(key_name)
-        call_deferred(queue_free)
+        call_deferred("queue_free")
 
 # Connectez le signal `body_entered` à `_on_body_entered` dans l'éditeur
 ```
