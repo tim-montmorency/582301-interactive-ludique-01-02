@@ -1,7 +1,7 @@
-# Travail pratique 2 (TP2) : <!-- varexp:begin BLOC2 -->Personnage et environnement<!-- varexp:end -->
+# Travail pratique 2 (TP2) : <!-- %: BLOC2 -->Personnage et environnement<!-- %; -->
 
- - Remise : <!-- varexp:begin REMISE_EVS_2 -->[Séance 8](/01-deroulement/08/)<!-- varexp:end -->
-- Pondération : <!-- varexp:begin PONDERATION_EVS_2 -->20%<!-- varexp:end -->
+ - Remise : <!-- %: REMISE_EVS_2 -->[Séance 8](/01-deroulement/08/)<!-- %; -->
+- Pondération : <!-- %: PONDERATION_EVS_2 -->20%<!-- %; -->
 
 ### Description
 

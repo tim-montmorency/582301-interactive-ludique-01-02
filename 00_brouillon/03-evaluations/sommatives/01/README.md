@@ -1,7 +1,7 @@
-# Travail pratique 1 (TP1) : <!-- varexp:begin BLOC1 -->Scène interactive<!-- varexp:end -->
+# Travail pratique 1 (TP1) : <!-- %: BLOC1 -->Scène interactive<!-- %; -->
 
-- Remise : <!-- varexp:begin REMISE_EVS_1 -->[Séance 4](/01-deroulement/04/)<!-- varexp:end -->
-- Pondération : <!-- varexp:begin PONDERATION_EVS_1 -->15%<!-- varexp:end -->
+- Remise : <!-- %: REMISE_EVS_1 -->[Séance 4](/01-deroulement/04/)<!-- %; -->
+- Pondération : <!-- %: PONDERATION_EVS_1 -->15%<!-- %; -->
 
 ### Description
 

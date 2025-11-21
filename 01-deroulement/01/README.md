@@ -1,4 +1,4 @@
-# S1 : <!-- varexp:begin S1 -->2025-08-22<!-- varexp:end -->
+# S1 : <!-- %: S1 -->2025-08-22<!-- %; -->
 
 ## Savoirs essentiels/Contenus
 

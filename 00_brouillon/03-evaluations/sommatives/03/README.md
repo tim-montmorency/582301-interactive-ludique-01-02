@@ -1,7 +1,7 @@
-# Travail pratique 3 (TP3) : <!-- varexp:begin BLOC3 -->Niveaux, progression, menu<!-- varexp:end -->
+# Travail pratique 3 (TP3) : <!-- %: BLOC3 -->Niveaux, progression, menu<!-- %; -->
 
-- Remise : <!-- varexp:begin REMISE_EVS_3 -->[Séance 11](/01-deroulement/11/)<!-- varexp:end -->
-- Pondération : <!-- varexp:begin PONDERATION_EVS_3 -->25%<!-- varexp:end -->
+- Remise : <!-- %: REMISE_EVS_3 -->[Séance 11](/01-deroulement/11/)<!-- %; -->
+- Pondération : <!-- %: PONDERATION_EVS_3 -->25%<!-- %; -->
 
 ### Description
 

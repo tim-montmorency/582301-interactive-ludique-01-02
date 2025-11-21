@@ -1,7 +1,7 @@
-# <!-- varexp:begin BLOC4 -->Projet intégrateur<!-- varexp:end -->
+# <!-- %: BLOC4 -->Projet intégrateur<!-- %; -->
 
-- Remise : <!-- varexp:begin REMISE_EVS_4 -->[Séance 15](/01-deroulement/15/)<!-- varexp:end -->
-- Pondération : <!-- varexp:begin PONDERATION_EVS_4 -->40%<!-- varexp:end -->
+- Remise : <!-- %: REMISE_EVS_4 -->[Séance 15](/01-deroulement/15/)<!-- %; -->
+- Pondération : <!-- %: PONDERATION_EVS_4 -->40%<!-- %; -->
 
 !> Activité d’évaluation démontrant l’atteinte de l’objectif intégrateur du cours.
 

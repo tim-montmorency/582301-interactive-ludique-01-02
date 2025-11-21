@@ -1,6 +1,6 @@
 # TP1-EVF-1 : Validation de concept pour le TP1
 
-Date : <!-- varexp:begin SEANCE_EVF_1 -->[Séance 2](/01-deroulement/02/)<!-- varexp:end -->
+Date : <!-- %: SEANCE_EVF_1 -->[Séance 2](/01-deroulement/02/)<!-- %; -->
 
 
 ## Description
