@@ -1,1 +1,3 @@
 # Citation adéquate des médias externes utilisés.
+
+Ce module explique comment intégrer des médias externes en respectant les droits d'auteur et les bonnes pratiques de citation : identifier clairement la source, la licence (CC, libre de droits, usage éducatif, etc.), et fournir les crédits nécessaires dans le projet et la page publique. Il présente des workflows pour vérifier la compatibilité des licences avec la diffusion (Itch.io, pages web), comment documenter les assets externes dans un fichier `CREDITS.md` ou dans le `README` du projet, et des stratégies pour remplacer ou adapter des médias si la licence est restrictive. L'objectif est d'assurer une utilisation éthique et légale des ressources tout en facilitant la réutilisation et la traçabilité des médias.

@@ -1,1 +1,3 @@
 # Conception, réalisation et integration des médias audiovisuels originaux.
+
+Ce module présente les bonnes pratiques pour concevoir et intégrer des médias originaux dans une expérience ludique : planification des assets visuels et sonores, choix des formats et résolutions adaptés au web, workflows pour la création (naming, versioning, dossiers de production), et optimisation des fichiers pour la performance. Il insiste sur la documentation des sources et licences, l'ajout de métadonnées (alt text, légendes), et la cohérence visuelle/sonore avec l'identité du projet. Les livrables attendus incluent médias optimisés, un guide d'intégration (formats, tailles, points d'export), et les crédits/licences associés.
