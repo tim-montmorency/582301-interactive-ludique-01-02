@@ -8,6 +8,8 @@ Vérification (une séance avant l’évaluation sommative) : tests réalisés p
 
 Réaliser une expérience ludique intégrant images et échantillons sonores dans laquelle l'interacteur progresse en accomplissant des actions. 
 
+
+
 #### Forme de l'évaluation
 
 * [x] Individuel
