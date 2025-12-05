@@ -2,13 +2,15 @@
 
 ## Support pour les Emoji dans l'export web
 
+Par default, Godot utilise une police (font) fournie par le système d'opération. Dans certains cas, particulière pour l'export Web, les Emoji n'apparaissent pas.   
+
 ### OmnEmoji
 
-* ![Via Asset Lib](image.png)
+* ![Via Asset Lib, chercher emoji](image.png)
 
-* ![Télécharger](image-1.png)
+* ![Télécharger OmnEmoji](image-1.png)
 
-* ![Décocher Ignore Asset Root ](image-2.png)
+* ![Décocher Ignore Asset Root](image-2.png)
 
 * ![Confirmer l'installation](image-3.png)
 
@@ -49,3 +51,11 @@ Godot Engine v4.5.1.stable.official (c) 2007-present Juan Linietsky, Ariel Manzu
 
 ```
 
+Si jamais cela ne fonctionne pas procédez à une installation manuel
+
+téléchargement de la version la plus récente
+
+https://codeberg.org/gllm/gd-OmnEmoji/releases
+
+puis mettre dans un dossier addons dans la racine de votre projet, 
+activez le plugins via Project Settings / Addon 

@@ -6,7 +6,7 @@
 
 ## Savoirs essentiels/Contenus
 
-* 
+* [Addon Emoji pour le WebExport](../../03-savoirs/04/08-addons/)
 
 ## Activités en classe
 
