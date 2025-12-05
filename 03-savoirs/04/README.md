@@ -8,4 +8,5 @@
 * [Conception, réalisation et integration des médias audiovisuels originaux.](/03-savoirs/04/05-conception-media/)
 * [Citation adéquate des médias externes utilisés.](/03-savoirs/04/06-medias-externes/)
 * [Documentation, présentation et crédits en ligne du projet de jeu.](/03-savoirs/04/07-documentation-mise-en-ligne/)
+* [Godot + Addons ](/03-savoirs/04/08-addons/)
 <!-- end-replace-subnav -->

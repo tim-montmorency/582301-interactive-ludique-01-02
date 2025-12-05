@@ -6,5 +6,6 @@
 * [EVS TP2 : Personnage et environnement](/04-evaluations/sommatives/02/)
     * [Grille d'évaluation — TP2 : Personnage et environnement](/04-evaluations/sommatives/02/grille/)
 * [EVS TP3: Niveaux, progression, menu ](/04-evaluations/sommatives/03/)
+    * [Grille d'évaluation — TP3 : Niveaux, progression, menu](/04-evaluations/sommatives/03/grille/)
 * [EVS-4 projet: Intégration des apprentissages](/04-evaluations/sommatives/04/)
 <!-- end-replace-subnav -->
