@@ -124,6 +124,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [EVS TP3: Niveaux, progression, menu ](/04-evaluations/sommatives/03/)
             * [Grille d'évaluation — TP3 : Niveaux, progression, menu](/04-evaluations/sommatives/03/grille/)
         * [EVS-4 projet: Intégration des apprentissages](/04-evaluations/sommatives/04/)
+            * [Grille d'évaluation — TP4 : Intégration des apprentissage ](/04-evaluations/sommatives/04/grille/)
 * [Ressources rapides](/05-ressources-rapides/)
     * [Projets-exemple](/05-ressources-rapides/01-projets-exemple/)
     * [Capsules vidéo](/05-ressources-rapides/02-capsules-video/)
