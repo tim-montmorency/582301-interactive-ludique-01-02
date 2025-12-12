@@ -5,3 +5,4 @@
 - **gd-example-audio-playback**. Dépôt avec exemple d'exportation Godot pour web et des foncitonnalités d'intégration sonore. <https://github.com/gllmAR/gd-example-audio-playback>
 - **exemple--plateforme**. Jeu simple de plateforme crée pour démontrer techniques pour le TP2. <https://github.com/egl-edu/exemple--plateforme>
 - **exemple--multi-niveaux**. Jeu simple avec des transitions de scènes simples. <https://github.com/egl-edu/exemple--multi-niveaux> 
+- **exemple-multi-niveaux et sons**  Jeu simple avec des transitions de scènes simples et sons . https://github.com/gllmAR/gd-plateforme-niveaux
